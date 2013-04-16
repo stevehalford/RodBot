@@ -1,0 +1,7 @@
+{
+    "channel": "#dev",
+    "server": "irc.server.com",
+    "botName": "rodbot",
+    "userName": "username",
+    "password": "password"
+}
